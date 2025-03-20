@@ -5,5 +5,3 @@ challenges:
   - id: mars
     name: Mars
   - id: venus
-    name: Penus
-    locked: True
