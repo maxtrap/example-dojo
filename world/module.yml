@@ -4,6 +4,7 @@ challenges:
     name: Earth
   - id: mars
     name: Mars
+    locked: True
   - id: venus
     name: Penus
     locked: True
