@@ -4,7 +4,7 @@ challenges:
     name: Earth
   - id: mars
     name: Mars
-    progression-locked: true
+    progression_locked: true
   - id: venus
     name: Venus
-    progression-locked: true
+    progression_locked: true
