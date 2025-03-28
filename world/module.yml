@@ -2,6 +2,7 @@ name: World
 challenges:
   - id: earth
     name: Earth
+    progression_locked: true
   - id: mars
     name: Mars
     progression_locked: true
