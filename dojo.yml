@@ -1,6 +1,6 @@
 id: example
 name: Example Dojo
-type: example
+type: public
 award:
   emoji: 😀
 image: pwncollege/challenge-simple
